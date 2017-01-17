@@ -1,3 +1,4 @@
 var name = "Taiwan";
+var str = "Hello";
 
-console.log(name);
+console.log(str + " " + name);
