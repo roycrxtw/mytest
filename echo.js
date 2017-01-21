@@ -1,5 +1,6 @@
 // rebase test
 
-function echo(){
+function echo(msg){
 	console.log("Basic echo function.");
+	console.log("message is " + msg);
 }
