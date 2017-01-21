@@ -6,7 +6,11 @@ function echo(msg){
 	console.log("Server is running.");		// server branch code.
 	console.log("message is " + msg);
 	
-	console.log("server offline.");		// server branch code
+	if(status){
+		console.log("server online.");		// server branch code
+	}else{
+		console.log("server offline.");
+	}
 	return null;
 }
 
