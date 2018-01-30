@@ -13,3 +13,9 @@ Some descriptions without leading spaces.
 
 Line 1
 
+日文  |中文 
+------|---
+大學院|研究所
+院生  |研究生
+研究生|旁聽生
+
